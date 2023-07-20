@@ -1,7 +1,7 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> OFFGRID Links </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Projeto desenvolvido através do curso que realizei na Rockseat. Foi desenvolvido um site web de links. O site pode ser utilizado em links de bio nas redes sociais, exemplo. <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
@@ -17,9 +17,9 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <br>
-
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+Veja a prévia abaixo:
+  <img alt="projeto DevLinks" src="./.vscode/assets/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,11 +33,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O OFF GRID Links é um agregador de links para usar como cartão de visitas online para a empresa OFF GRID Martech.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado da Rockeseat, online](https://maykbrito.github.io/devlinks)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Assistir as aulas da Rocketseat para criar o seu devlinks](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## 🔖 Layout
 
@@ -50,3 +50,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+Gratidão ao professor Mayk Brito pela didática incrível!
